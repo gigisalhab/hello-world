@@ -59,9 +59,10 @@ h1 {
     background-image: url('images/Logo.png');
     background-repeat: no-repeat;
     background-size: 40px;
-    font-size: 3em;
-    padding-left: 55px;
     background-position: center left;
+    font-size: 3em;
+    padding-left: 50px;
+    
     margin: 100px 0 25px 0;
 }
 
@@ -71,5 +72,5 @@ h2 {
 
 p {
     margin: 0;
-    line-height: 1.4cm;
+    line-height: 1.4em;
 }
