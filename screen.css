@@ -39,14 +39,22 @@ main {
 }
 
 div.code-copy {
-    padding: 25px;
+    padding: 20px 25px 10px 25px;
 }
 
+.code-html pre {
+    line-height: 1.5;
+    font-size: 15px;
+    margin-top: 0;     
+    margin-bottom: 0;
+}
+
+
 div.code-html {
-    padding: 25px;
+    padding: 15px 20px 15px 25px;
     background: #424242;
     color: #fff;
-    border-bottom-left-radius: 20px;
+    border-bottom-left-radius:20px;
     border-bottom-right-radius:20px;
 
 }
