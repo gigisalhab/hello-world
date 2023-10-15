@@ -30,6 +30,7 @@ main {
     flex-grow: 1;
     flex-basis: 0;
     background: #eee;
+    padding: 25px;
     border-radius: 20px;
     margin-top: 25px;
 }
@@ -61,8 +62,7 @@ h1 {
     background-size: 40px;
     background-position: center left;
     font-size: 3em;
-    padding-left: 50px;
-    
+    padding-left: 55px;
     margin: 100px 0 25px 0;
 }
 
@@ -72,5 +72,5 @@ h2 {
 
 p {
     margin: 0;
-    line-height: 1.4em;
+    line-height: 1.6em;
 }
